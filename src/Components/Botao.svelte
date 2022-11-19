@@ -29,11 +29,11 @@
         flex-basis: 50%;
     }
     .destaque{
-        background-color: red;
+        background-color: #4f5cb7;
         color: white
     }
     .operacao{
-        background-color: orange;
+        background-color: #2fb7b0;
         color: white
     }
 </style>
