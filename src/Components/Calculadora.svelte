@@ -60,11 +60,12 @@
 <style>
     .calculadora{
         background-color: var(--cor-fundo);
-        height: 220px;
-        width: 150px;
+        height: 400px;
+        width: 250px;
         padding: 10px;
         border-radius: 10px;
         display:flex;
-        flex-direction: column
+        flex-direction: column;
+        font-size: 28px;
     }
 </style>
